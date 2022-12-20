@@ -5,7 +5,7 @@
 ################################################################################
 
 LIBLINEAR_VERSION = 2.44
-LIBLINEAR_SITE = http://www.csie.ntu.edu.tw/~cjlin/liblinear
+LIBLINEAR_SITE = http://www.csie.ntu.edu.tw/~cjlin/liblinear/oldfiles
 LIBLINEAR_LICENSE = BSD-3-Clause
 LIBLINEAR_LICENSE_FILES = COPYRIGHT
 LIBLINEAR_INSTALL_STAGING = YES
